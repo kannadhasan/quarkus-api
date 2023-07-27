@@ -1,6 +1,6 @@
 # quarkus-api
 ---
-openapi: 3.0.3
+"openapi: 3.0.3
 info:
   title: quarkus-api API
   version: 1.0.0-SNAPSHOT
@@ -127,4 +127,4 @@ components:
     SecurityScheme:
       type: http
       description: Authentication
-      scheme: basic
+      scheme: basic"
